@@ -107,6 +107,23 @@ nav .nav-link{
 .proyecto img{
     height: 208px;
 }
+#inicio .div-cohete{
+    height: 410px;
+}
+#inicio .cohete{
+    height: 400px;
+}
+#inicio .cohete:hover{
+    height: 410px;
+}
+#inicio .input-home p{
+    color:white;
+    font-size: 17px;
+    border: 1px solid white;
+    border-radius: 50px;
+    font-weight: 600;
+}
+
 @media (max-width: 750px) {
     #contacto{
         background-image: url('../images/fondo-proyectos.png');
